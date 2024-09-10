@@ -59,7 +59,7 @@ params:
           imageTitle: Blaine Finstein
           buttons:
             - name: CV
-              url: cv blaine finstein.pdf
+              url: https://docs.google.com/document/d/1dUvWGoySmQt98kgaP9dp0ah5avHo8ws9UCWY1DydbdM/edit?usp=sharing
             - name: Research
               url: research/
             - name: Data
