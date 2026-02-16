@@ -1,11 +1,18 @@
 ---
-title: "Website"
+title: "Blaine Finstein"
+about:
+  template: jolla
+  image: files/headshot.jpg
+  links:
+    - icon: file-earmark-text
+      text: CV
+      href: https://docs.google.com/document/d/1dUvWGoySmQt98kgaP9dp0ah5avHo8ws9UCWY1DydbdM/edit?usp=sharing
+    - icon: github
+      text: GitHub
+      href: https://github.com/blainefinstein
+    - icon: envelope
+      text: Email
+      href: blainefinstein@ucla.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi! I am a PhD student in political science at UCLA. My research focuses on the political economy of development, public resource allocation, and applications of computational tools to social science.
