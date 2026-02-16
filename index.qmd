@@ -13,6 +13,9 @@ about:
     - icon: envelope
       text: Email
       href: blainefinstein@ucla.edu
+    - icon: book
+      text: Goodreads
+      href: https://www.goodreads.com/user/show/5475703-blaine
 ---
 
 Hi! I am a PhD student in political science at UCLA. My research focuses on the political economy of development, public resource allocation, and applications of computational tools to social science.
