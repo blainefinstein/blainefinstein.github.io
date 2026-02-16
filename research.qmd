@@ -69,4 +69,31 @@ This paper argues that agricultural endowments shaped local financial networks a
 
 </details>
 
+## Selected Other Publications
+
+### A Comment on "Extraction, Assimilation, and Accommodation: The Historical Foundations of Indigenous-State Relations in Latin America"
+
+**Coauthors:** [Konstantin Ash](https://sites.google.com/view/konstantinash/home) (University of Central Florida) and Daniel Carnahan (UCLA)
+
+Replicates Carter (2024) as part of the [Institute for Replication](https://i4replication.org/) discussion paper series and meta study.
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+Carter (2024) examines the historical conditions that shape protection versus assimilation for indigenous communities, arguing that state-led conscription programs are one such factor. In a natural experiment leveraging conscription for a 1920s Peruvian highway designed to replicate a pre-colonial road system (Qhapaq Ñan), Carter finds through a geographic regression discontinuity design that eligibility for state conscription increased the likelihood of a municipality having an indigenous movement by about 30 percentage points (approximately .75 standard deviations) and scores on an omnibus accommodation measure by about .3 items (approximately .4 standard deviations). The omnibus measure includes the number of institutions that an indigenous community reports preserving (increased by .3 items on a 7 point scale, or .25 standard deviations), likelihood of having a communal land title (increased by 12 percentage points, or .3 standard deviations), and likelihood of registration with the government (increased by 9 percentage points, or .3 standard deviations). All point estimates are significant at the .1% level.
+
+We successfully computationally reproduce all main claims of the paper but find inconsistencies between the map of the road presented by Carter and that used by Franco et al. (2021) that affect its passage through a small number of municipalities. In order to investigate whether these municipalities drive the main findings without the ability to identify municipalities in the data, we drop municipalities iteratively and re-run the analysis, finding only minor changes in coefficient estimates across subsets. In addition, we explore a number of sensitivity analyses for the regression discontinuity design that vary the functional form, vary the bandwidth window, and use the Rosenbaum method for window selection. While the results remain consistent under all analyses, we recommend for further research to recode treated municipalities on the basis of the alternative road map and explore the as-if random assumption in light of evidence linking proximity to the precolonial road to various economic and political outcomes.
+
+</details>
+
+**Suggested citation**
+
+Finstein, Blaine; Ash, Konstantin; Carnahan, Daniel (2024) : A Comment on "Extraction, Assimilation, and Accommodation: The Historical Foundations of Indigenous-State Relations in Latin America", I4R Discussion Paper Series, No. 176, Institute for Replication (I4R), s.l.
+
+**Paper**
+
+[Download PDF](files/I4R-DP176.pdf)
+
+
+
 

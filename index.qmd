@@ -20,5 +20,7 @@ about:
 
 Hi! I am a PhD student in political science at [UCLA](https://polisci.ucla.edu/). My research focuses on the political economy of development, public resource allocation, and applications of computational tools to social science. I am also a consultant for [Identification for Development](https://id4d.worldbank.org/) at the World Bank, where I manage a research agenda to study the impacts of PhilSys, the Philippines' foundational national ID system.
 
-Prior to the PhD, I worked in a number of roles spanning foreign aid research and practice. I supported refugee resettlement operations at the [International Rescue Committee](https://www.rescue.org/) and served as a Peace Corps Volunteer in the Philippines, where I developed remedial reading programming in [Roxas City, Western Visayas](https://maps.app.goo.gl/siLK6S5xnTTvZSXQA). I am also the recipient of a Fulbright research grant at [Ateneo de Manila University](https://www.ateneo.edu/).
+Prior to the PhD, I worked in a number of roles spanning aid research and practice. I supported refugee resettlement operations at the [International Rescue Committee](https://www.rescue.org/) and served as a Peace Corps Volunteer in the Philippines, where I developed remedial reading programming in [Roxas City, Western Visayas](https://maps.app.goo.gl/siLK6S5xnTTvZSXQA). I am also the recipient of a Fulbright research grant at [Ateneo de Manila University](https://www.ateneo.edu/).
+
+I hold an MA in political science from UCLA and a BA in international relations and Plan II Honors from [UT Austin](https://www.utexas.edu/).
 
