@@ -1,0 +1,3 @@
+VERIFIED: 47 pages; only added author on page 1 and renamed/recentered appendix heading on page 34. All other rendered content is pixel-identical to the Downloads originals, including page numbers.
+All link annotations and destination targets preserved.
+SHA-256: 201ef91baae1834b362dabdfc77f8e444714082da061e76c8f34982621cc2293
