@@ -1,1 +1,97 @@
-/* css styles */
+/* A restrained academic palette, shared across the site. */
+:root {
+  --site-ink: #263442;
+  --site-accent: #356762;
+  --site-paper: #faf9f6;
+  --site-border: #dedfd9;
+}
+
+body {
+  background: var(--site-paper);
+  color: var(--site-ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.7;
+}
+
+a {
+  color: var(--site-accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+a:hover { color: #214d49; }
+
+a:focus-visible, button:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--site-accent);
+  outline-offset: 4px;
+}
+
+.navbar {
+  background: var(--site-paper);
+  border-bottom: 1px solid var(--site-border);
+  padding-block: 0.85rem;
+}
+
+h1, h2, h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--site-ink);
+}
+
+.navbar-brand {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--site-ink);
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: -0.015em;
+  margin-right: 2rem;
+}
+
+.navbar .nav-link { font-size: 0.94rem; }
+.navbar .nav-link.active { color: var(--site-accent); }
+
+h1, h2, h3 { line-height: 1.3; }
+h2 { border-bottom-color: var(--site-border); }
+h3 { font-size: 1.45rem; }
+
+/* Keep the homepage title in metadata and search, but show the name only in the navbar. */
+.quarto-about-jolla #title-block-header { display: none; }
+
+.quarto-about-jolla .about-image {
+  border: 5px solid #fff;
+  box-shadow: 0 4px 22px rgb(38 52 66 / 8%);
+}
+
+.quarto-about-jolla main.content {
+  max-width: 46rem;
+  margin-inline: auto;
+  text-align: left;
+}
+
+.quarto-about-jolla main.content p { margin-bottom: 1.25rem; }
+
+div.quarto-about-jolla .about-sep { border-color: var(--site-border); }
+
+div.quarto-about-jolla .about-link {
+  color: var(--site-accent);
+  border-color: var(--site-border);
+  border-radius: 4px;
+  padding: 0.35rem 0.7rem;
+  background: transparent;
+}
+
+div.quarto-about-jolla .about-link:hover {
+  background: #edf1ed;
+  border-color: var(--site-accent);
+}
+
+details summary {
+  color: var(--site-accent);
+  cursor: pointer;
+}
+
+#TOC .nav-link.active { color: var(--site-accent); }
+
+@media (max-width: 767px) {
+  .navbar-brand { margin-right: 0.75rem; }
+  .quarto-about-jolla main.content { padding-inline: 0.25rem; }
+}
