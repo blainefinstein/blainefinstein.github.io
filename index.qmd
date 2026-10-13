@@ -6,7 +6,7 @@ about:
   links:
     - icon: file-earmark-text
       text: CV
-      href: https://docs.google.com/document/d/1dUvWGoySmQt98kgaP9dp0ah5avHo8ws9UCWY1DydbdM/edit?usp=sharing
+      href: files/CV_Finstein_Oct_2026.pdf
     - icon: envelope
       text: Email
       href: mailto:blainefinstein@ucla.edu
