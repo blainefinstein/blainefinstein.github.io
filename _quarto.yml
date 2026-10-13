@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
+      - href: files/CV_Finstein_Oct_2026.pdf
+        text: CV
 
 format:
   html:

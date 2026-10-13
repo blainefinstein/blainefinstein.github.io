@@ -4,9 +4,6 @@ about:
   template: jolla
   image: files/headshot.jpg
   links:
-    - icon: file-earmark-text
-      text: CV
-      href: files/CV_Finstein_Oct_2026.pdf
     - icon: envelope
       text: Email
       href: mailto:blainefinstein@ucla.edu
